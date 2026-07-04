@@ -40,19 +40,21 @@ The Banking Management System simulates core banking functionalities such as acc
 ## 📁 Project Structure
 
 ```
-BackAccount/
-├── README.md
-|
-└── src/
-    ├── pack1/
-    │   ├── BankAccount.java
-    │   ├── SavingsAccount.java
-    │   ├── CheckingAccount.java
-    │   └── Transaction.java
-    │
-    └── pack2/
-    |    └── BankingSystem.java
-    └── Main.java
+Banking-System/
+│
+├── src/
+│   ├── pack1/
+│   │   ├── BankAccount.java          
+│   │   ├── CheckingAccount.java      
+│   │   ├── SavingsAccount.java       
+│   │   └── Transaction.java          
+│   │
+│   ├── pack2/
+│   │   └── BankingSystem.java        
+│   │
+│   └── main.java                     
+│
+├── README.md  
 
 ```
 
